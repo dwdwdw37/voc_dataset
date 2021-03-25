@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>%20(117)%20(%E5%A4%8D%E5%88%B6).jpg</filename>
+    <path>416-PascalVOC-export/Annotations/%20(117)%20(%E5%A4%8D%E5%88%B6).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>H</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>121.45085463012006</xmin>
+        <ymin>117.98419154969986</ymin>
+        <xmax>310.88363733668785</xmax>
+        <ymax>253.83050847457628</ymax>
+    </bndbox>
+</object>
+</annotation>
